@@ -12,7 +12,6 @@
 
 ### Connect with me:
 
-[![Website][websiteicon]][website]
 <img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg
 " style="padding-right:10px;" />
 <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />
