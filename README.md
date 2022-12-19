@@ -41,6 +41,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Provisioning an EC2 instance using Terraform &amp; keypair](https://dev.to/codenamenuke/provisioning-an-ec2-instance-using-terraform-keypair-1b9k)
+- [Building a Docker-Jenkins CI/CD Pipeline for a Python App &lpar;Part 2&rpar;](https://dev.to/codenamenuke/building-a-docker-jenkins-cicd-pipeline-for-a-python-app-part-2-2m4k)
+- [Building a Docker-Jenkins CI/CD Pipeline for a Python App &lpar;Part 1&rpar;](https://dev.to/codenamenuke/building-a-docker-jenkins-cicd-pipeline-for-a-python-app-part-1-f07)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
