@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![Website][https://cdn.worldvectorlogo.com/logos/ansible.svg]][https://nyukeit.dev]
+[![Website][websiteicon]][website]
 <img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg
 " style="padding-right:10px;" />
 <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />
@@ -52,6 +52,7 @@
 ![Nyukeit's GitHub stats](https://github-readme-stats.vercel.app/api?username=codenamenuke&show_icons=true)
 
 [website]: https://nyukeit.dev
+[websiteicon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg
 [twitter]: https://twitter.com/codenamenuke
 [instagram]: https://instagram.com/codenamenuke
 [linkedin]: https://linkedin.com/in/nyukeit
