@@ -12,26 +12,22 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://nyukeit.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://nyukeit.dev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codenamenuke#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codenamenuke#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nyukeit#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nyukeit#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codenamenuke#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codenamenuke#gh-dark-mode-only)
+[![Website][https://cdn.worldvectorlogo.com/logos/ansible.svg]][https://nyukeit.dev]
+<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg
+" style="padding-right:10px;" />
+<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Dev.To" width="26px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" style="padding-right:10px;" />
+<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />
 
 ### Languages and Tools:
+
 
 <img align="left" alt="Ansible" width="26px" src="https://cdn.worldvectorlogo.com/logos/ansible.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
