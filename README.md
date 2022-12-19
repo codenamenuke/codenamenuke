@@ -38,6 +38,11 @@
 
 ---
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
