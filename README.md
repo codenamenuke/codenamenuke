@@ -12,14 +12,19 @@
 
 ### Connect with me:
 
-<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg
-" style="padding-right:10px;" />
-<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Dev.To" width="26px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" style="padding-right:10px;" />
-<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />
+[![website](./img/globe-light.svg)](https://nyukeit.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://nyukeit.dev#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codenamenuke#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codenamenuke#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nyukeit#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nyukeit#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codenamenuke#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codenamenuke#gh-dark-mode-only)
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Ansible" width="26px" src="https://cdn.worldvectorlogo.com/logos/ansible.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
@@ -51,7 +56,6 @@
 ![Nyukeit's GitHub stats](https://github-readme-stats.vercel.app/api?username=codenamenuke&show_icons=true)
 
 [website]: https://nyukeit.dev
-[websiteicon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg
 [twitter]: https://twitter.com/codenamenuke
 [instagram]: https://instagram.com/codenamenuke
 [linkedin]: https://linkedin.com/in/nyukeit
